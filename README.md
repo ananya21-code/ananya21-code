@@ -1,41 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manolla Ananya</h1>
 <h3 align="center">CSE Student | Web Developer | AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananya21-code&label=Profile%20views&color=0e75b6&style=flat" alt="ananya21-code" />
-</p>
-
 ---
 
 ### 🌟 About Me
 
-- 🎓 I'm a **B.Tech Computer Science** student at **Vardhaman College of Engineering** (2022–26)
-- 💻 Passionate about **Java, Python, Web Development, and AI**
-- 🌱 Currently enhancing my skills in **Machine Learning, Cloud Computing, and Full Stack Development**
-- 🧠 Problem-solving enthusiast with certifications in **AI, ML, and GCP**
-- 🎯 Interned as a **Software Developer** at **CODTECH IT SOLUTIONS**
-
----
-
-### 🔧 Tech Stack
-
-**Languages & Tools:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,mysql,mongodb,git,github,vscode,idea" />
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ananya21-code&show_icons=true&theme=tokyonight" alt="ananya21-code" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananya21-code&theme=tokyonight" alt="ananya21-code" />
-</p>
+- 🎓 I'm a **B.Tech Computer Science** student at **Vardhaman College of Engineering** (2022–26)  
+- 💻 Interned as a **Software Developer** at **CODTECH IT SOLUTIONS**
 
 ---
 
